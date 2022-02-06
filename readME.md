@@ -24,6 +24,10 @@ You simply clone the repo from githun then run it in your favorite terminal. The
 It is used to create readMe.md files quickly and easily
 
 
+![readmegenerator](https://user-images.githubusercontent.com/94375676/152664649-4c5831ba-7a70-4bd1-aaf1-2e9a87cacd53.PNG)
+
+or watch the video  here: https://watch.screencastify.com/v/0TPlsINm96dE6YUqrd0A
+
 ## License
 
 The license used for this file is mit [https://choosealicense.com/licenses/mit/](https://choosealicense.com/licenses/mit/). 
